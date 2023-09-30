@@ -189,7 +189,7 @@
   }
   .btn-group__item:first-child {
     border-top-left-radius: 1rem;
-    border-bottom-left-radius: 1rem;
+    border-bottom-left-radius: 1rem; 
   }
   .btn-group__item:hover,
   .btn-group__item:focus {
